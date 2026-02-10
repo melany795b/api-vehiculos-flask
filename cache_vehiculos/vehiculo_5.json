@@ -1,0 +1,11 @@
+{
+    "nidtvehiculo": 5,
+    "cmarca": "NISSAN",
+    "cmodelo": "VERSA",
+    "placa": "EAC776",
+    "coctanaje": "GASOLINA 90",
+    "nidttipocombustible": 3,
+    "cdescripcioncombustible": "GASOHOL PREMIUM",
+    "nidttipovehiculo": 1,
+    "cdescripciontipovehiculo": "SEDÃN"
+}
